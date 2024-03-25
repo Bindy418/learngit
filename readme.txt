@@ -1,4 +1,1 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-Git has a mutable index called stage.
-这个版本是用来测试删除操作的
+这个仓库是学习git创建的第一个仓库，仅作留念。
