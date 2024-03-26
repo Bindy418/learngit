@@ -2,4 +2,4 @@
 
 Creating a new branch is quick and simple.
 
-尝试使用no ff模式
+与使用noff做对比
